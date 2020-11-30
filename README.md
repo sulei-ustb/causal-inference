@@ -2,9 +2,9 @@
 
 Code goal:
 
-  1, Visualize 3D data
+  \t1, Visualize 3D data
 
-  2, Training a VAE model, and generate Z data set
+  \t2, Training a VAE model, and generate Z data set
 
 Input: Synthesized 3D data 
 
